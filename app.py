@@ -1,9 +1,8 @@
 """
-This is testinng for custom YAML for CI
-
+this is testing for custom YAML for CI
 """
+
+
 def custom():
-    """
-    test function added
-    """
+    """docstring"""
     return "Hello"
