@@ -2,5 +2,5 @@
 This is testinng for custom YAML for CI
 
 """
-def custom ():
+def custom():
     return "Hello"
